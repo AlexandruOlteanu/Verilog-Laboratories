@@ -1,0 +1,9 @@
+[Inputs]
+a
+b
+[Outputs]
+result
+[BiDir]
+[ATTRIBUTES]
+VeriModel xor_flux_date
+

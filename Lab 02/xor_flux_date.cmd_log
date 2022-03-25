@@ -1,0 +1,2 @@
+vhdtdtfi -lib work /home/student/Desktop/lab02_skel/xor_flux_date.v -lang verilog -prj lab02_skel -o xor_flux_date.spl -module xor_flux_date -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 xor_flux_date.spl /home/student/Desktop/lab02_skel/xor_flux_date.sym 
