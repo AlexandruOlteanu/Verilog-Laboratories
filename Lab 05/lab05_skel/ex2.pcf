@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Apr 15 15:45:31 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "o_r_CC" LOCATE = SITE "U17" LEVEL 1;
+COMP "o_r_CD" LOCATE = SITE "U18" LEVEL 1;
+COMP "o_r_CE" LOCATE = SITE "M14" LEVEL 1;
+COMP "o_r_CF" LOCATE = SITE "N14" LEVEL 1;
+COMP "o_r_CG" LOCATE = SITE "L14" LEVEL 1;
+COMP "i_w_clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "o_r_DP" LOCATE = SITE "M13" LEVEL 1;
+COMP "o_r_AN0" LOCATE = SITE "N16" LEVEL 1;
+COMP "o_r_AN1" LOCATE = SITE "N15" LEVEL 1;
+COMP "o_r_AN2" LOCATE = SITE "P18" LEVEL 1;
+COMP "o_r_AN3" LOCATE = SITE "P17" LEVEL 1;
+COMP "i_w_reset" LOCATE = SITE "B8" LEVEL 1;
+COMP "o_r_CA" LOCATE = SITE "T17" LEVEL 1;
+COMP "o_r_CB" LOCATE = SITE "T18" LEVEL 1;
+SCHEMATIC END;
+

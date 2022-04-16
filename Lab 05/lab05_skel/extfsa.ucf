@@ -1,0 +1,14 @@
+NET "AN0" LOC = N16;
+NET "AN1" LOC = N15;
+NET "AN2" LOC = P18;
+NET "AN3" LOC = P17;
+NET "CA" LOC = T17;
+NET "CB" LOC = T18;
+NET "CC" LOC = U17;
+NET "CD" LOC = U18;
+NET "CE" LOC = M14;
+NET "CF" LOC = N14;
+NET "CG" LOC = L14;
+NET "DP" LOC = M13;
+NET "reset" LOC = B8;
+NET "clk" LOC = V10;
