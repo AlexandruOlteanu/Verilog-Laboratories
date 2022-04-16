@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student/Downloads/lab05_skel/ex3.ncd
+OUTFILE=/home/student/Downloads/lab05_skel/ex3.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/student/Downloads/lab05_skel
+LICENSE=WebPack
+USER_INFO=211412960_0_0_436
